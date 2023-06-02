@@ -4,6 +4,8 @@
   
  </div>
 <div>
-  <center>
-  <h1>                   Olá! Eu me chamo Giovanna!! </h1>
-    </center>
+  
+ :::
+  <h1>Olá! Eu me chamo Giovanna!! </h1>
+ :::
+
