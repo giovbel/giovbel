@@ -6,7 +6,7 @@
 <div>
   
   <div align="center">
-  <h1>Olá! Eu me chamo Giovanna!! </h1>
+  <h1>Bem-vindos ao meu perfil!! </h1>
   <p> Estou aprendendo sobre: </p>
   </div>
   
