@@ -7,8 +7,8 @@
   
   <div align="center">
   <h1>Olá! Eu me chamo Giovanna!! </h1>
-  </div>
   <p> Estou aprendendo: </p>
+  </div>
   
   
   <div align="center" >
