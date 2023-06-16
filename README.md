@@ -1,6 +1,7 @@
 <div align="center" > 
 
-<img width="400px" src="https://media.tenor.com/AE5cg4I3P6sAAAAM/clouds-purple.gif">
+<img width="400px" src="![EsxaB-9XcAMEpGE-removebg-preview](https://github.com/giovbel/giovbel/assets/123781727/970ea151-6da1-4a0a-bfaf-f84446598cd0)
+">
   
  </div>
 <div>
