@@ -1,6 +1,6 @@
 <div align="center" > 
 
-<img  width="400px" src="https://media.tenor.com/AE5cg4I3P6sAAAAM/clouds-purple.gif">
+<img  height="100px" width="400px" src="https://media.tenor.com/AE5cg4I3P6sAAAAM/clouds-purple.gif">
   
  </div>
 <div>
