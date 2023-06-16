@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
  <hr>
     
-   ![giovbel's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovbel&show_icons=true&theme=tokyonight)
+   ![giovbel's Stats](https://github-readme-stats.vercel.app/api?username=giovbel&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+    ![giovbel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giovbel&theme=dracula&hide_border=true)
+    ![giovbel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovbel&theme=dracula&show_icons=true&hide_border=true&layout=compact)
     
   </div>
